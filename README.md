@@ -1,5 +1,9 @@
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
+<a href="https://www.loom.com/share/f9eb183badae422c9d32a2cd34359d6c">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f9eb183badae422c9d32a2cd34359d6c-with-play.gif">
+  </a>
+
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
